@@ -1,9 +1,6 @@
-//
 //  ViewController.swift
 //  componentizationTest
-//
 //  Created by 李宇鸿 on 2022/5/2.
-//
 
 import UIKit
 
